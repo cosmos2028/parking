@@ -1,0 +1,138 @@
+body
+{
+	background-color: #00796B;
+	font-family: arial;
+	font-size: 16px;
+	color: #000000;
+}
+.connexion h1
+{
+	font-weight: bold;
+	color: #000000;
+	margin-right: 10px;
+	margin-left: 190px;
+	margin-bottom: 25px;
+}
+.form .form-control
+{
+	display: inline-block;
+    width: 151px; 
+    /* height: 34px; */
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+
+}
+a.forgetpass
+{
+	color: #CCCCCC;
+	text-decoration: underline;
+    float: right;
+    margin-right: 18px;
+    margin-top: 9px;
+}
+.homText h2
+{
+	color: #000000;
+}
+.control-group1
+{
+	    margin-left: 103px;
+}
+.control-group5
+{
+	    margin-left: 79px;
+}
+.control-group2
+{
+	    margin-left: 25px;
+}
+.control-group4
+{
+	    margin-left: 97px;
+}
+.control-group7
+{
+	    margin-left: 37px;
+}
+.control-group6
+{
+	    float: right;
+    	margin-right: 254px;
+    	margin-top: 25px;
+    	color: #000000;
+}
+.form-group input
+{
+	margin-bottom: 10px;
+}
+.homText p
+{
+	margin: 52px 10px 0 36px;
+}
+.connexion
+{
+	margin-bottom: 30px;
+}
+.bg
+{
+	margin-left: 50px;
+}
+.bg a
+{
+	font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+.uni a
+{
+	padding-left: 6px;
+}
+.abon
+{
+	width: 224px;
+}
+.reservation
+{
+	margin-top: 92px;
+}
+.reservation label
+{
+	float: right;
+}
+.abonSelect
+{
+	margin-right: -369px;
+    margin-bottom: 29px;
+}
+.colMsg
+ {
+ 	margin-left: 29px;
+ }
+ .pageAdmin a
+ {
+ 	color: #CCCCCC;
+	text-decoration: underline;
+	font-size: 18px;
+ }
+ .pageAdmin
+ {
+ 	 margin-bottom: 25px;
+ }
+ .row_attribut
+ {
+ 	margin-top: 77px;
+ }
+ .row2_attribut
+ {
+ 	margin-top: 20px;
+ }
+ .input_user
+ {
+ 	width: 169px;
+    margin-left: 35px;
+ }
